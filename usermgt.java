@@ -4,4 +4,3 @@ Dominion
 ayo
 obi
 manager
-clark
