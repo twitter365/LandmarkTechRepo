@@ -1,1 +1,0 @@
-app rady for deploy
